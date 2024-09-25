@@ -8,9 +8,9 @@ At the Robotics Club of Tishreen University, we faced challenges with managing t
    The system automatically downloads the .gcode files from the group and schedules them in an Excel file.
 #### 3) GUI Interaction:
    Members can interact with a user-friendly graphical interface (GUI) either in person or through a private Telegram chat. They are presented with options to:
-    #### * Print the file
-    #### * Not print the file and delete
-    #### * Schedule the print for later
+    #### Print the file
+    #### Not print the file and delete
+    #### Schedule the print for later
 #### 4) Automated Printing:
    Once the member makes a selection, the system sends the .gcode to the 3D printer via a serial port. The file is copied onto the printer's built-in SD card, and the print begins automatically, without the need for further human interaction.
 ## Features:
